@@ -1,0 +1,26 @@
+.sidebar{
+    width: 300px;
+    height: 100vh;
+    border-right: 1px solid lightgray;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.sidebar-header{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+}
+.capital-mind{
+    font-weight: 600;
+    font-size: 18px;
+    color:black
+}
+.capital-premium{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(33, 245, 14);
+    margin-top: -25px;
+    margin-left: -20px;
+}
